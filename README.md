@@ -1,8 +1,8 @@
-#  Data Analysis Project
+# Exploratary Data Analysis Project
 
 ## 📌 Project Overview
 
-This project performs **Data Analysis** on a sales dataset using Python. The main purpose is to clean, analyze, and visualize the data to identify important patterns, relationships, and trends.
+This project performs ** Exploratory Data Analysis** on a sales dataset using Python. The main purpose is to clean, analyze, and visualize the data to identify important patterns, relationships, and trends.
 
 The project uses **Pandas, Matplotlib, and Seaborn** for data processing and visualization.
 
